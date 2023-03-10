@@ -10,7 +10,7 @@ This is the software client for that hardware, which receives and converts the s
 
 At the moment this means 6 bits per pixel, ~30FPS.
 
-<video src="http://dyn.supersaturn.space/gifdumps/test1.mp4" width="626"> </video>
+https://user-images.githubusercontent.com/127321359/224422179-d3227273-6468-4ef0-991d-ddc945e091db.mp4
 
 ## Getting Started
 
